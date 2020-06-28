@@ -1,4 +1,4 @@
-# covid-project
+# Nerwork Science COVID project, Group #2
 
 Project report:
 
